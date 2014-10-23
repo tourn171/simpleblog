@@ -1,0 +1,2 @@
+[23-Oct-2014 10:14:48 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/admin/index.php on line 12
+[23-Oct-2014 10:14:48 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/admin/index.php on line 12

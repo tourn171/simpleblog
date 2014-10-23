@@ -8,6 +8,13 @@
                     "command": "",
                     "name": "Apache & PHP",
                     "default": true
+                },
+                "Apache & PHP": {
+                    "runner": "Apache httpd (PHP, HTML)",
+                    "command": "",
+                    "name": "Apache & PHP",
+                    "default": true,
+                    "debug": true
                 }
             },
             "@inited": "true"
